@@ -1,2 +1,1 @@
-## Coding-challenges-1
-### Keenan Joshua - 182887
+## Keenan Joshua - 182887
