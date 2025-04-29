@@ -15,6 +15,7 @@ public class RandomDice {
             System.out.println("You rolled doubles! +2 bonus to total!");
             total+=2;
         }
+        System.out.println("Total dice: "+total);
         if(total>=15){
             System.out.println("You win!");
         }
